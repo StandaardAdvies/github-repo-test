@@ -1,1 +1,2 @@
-hist(runif(1000))
+hist(rnorm(10000))
+
